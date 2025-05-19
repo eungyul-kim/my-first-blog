@@ -1,0 +1,15 @@
+# Python 바이트코드 캐시
+__pycache__/
+*.py[cod]
+
+# 에디터 임시 파일 (백업 등)
+*~
+
+# 가상환경 폴더
+venv/
+
+# SQLite DB 파일
+db.sqlite3
+
+# Django 정적 파일 (배포용)
+static/
