@@ -12,4 +12,4 @@ venv/
 db.sqlite3
 
 # Django 정적 파일 (배포용)
-static/
+#static/
